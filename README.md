@@ -6,10 +6,10 @@ The purpose of this project is to visually show the differences between the magn
 
 # Summary
 
-![Tectonic Plate Map](Tectonic_plate.png)
+![Tectonic Plate Map](Tectonic_plate)
 
 
-![Major Earthquakes Map](Major_Earthquakes.png)
+![Major Earthquakes Map](Major_Earthquakes)
 
 
-![Final Map](Final_Map.png)
+![Final Map](Final_Map)
